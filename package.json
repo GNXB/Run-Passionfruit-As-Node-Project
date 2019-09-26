@@ -1,0 +1,17 @@
+{
+  "name": "run-passionfruit-as-node-project",
+  "version": "1.0.0",
+  "description": "Troubleshoot when cannot npm install -g passionfruit",
+  "scripts": {
+    "start": "passionfruit"
+  },
+  "keywords": [
+    "passionfruit",
+    "node"
+  ],
+  "author": "GNXB (Apiwith Potisuk)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "passionfruit": "^0.5.5"
+  }
+}
