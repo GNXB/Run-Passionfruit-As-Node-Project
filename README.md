@@ -9,7 +9,7 @@ If you are someone who cannot `npm i -g passionfruit` as well, you can now run i
 5. Plug your jail broken devices and go to `http://localhost:31337`
 
 ## About
-If you are thinking this is a stupid solution on your fool (cuz I just adapt the place to run **passionfruit**), hit a STAR for me. Thank!!!
+If you are thinking this is a stupid solution (cuz I just adapt the place to run **passionfruit**), hit a STAR for me. Thank!!!
 ```JS
 // hit one, not twice
 ```
